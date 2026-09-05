@@ -70,4 +70,4 @@ Logistic Regression was the stronger performer on both datasets, with especially
 
 ---
 
-*Built as my final-year Master's project at Torrens University Australia.*
+*Built as my final-year Master's project.*
